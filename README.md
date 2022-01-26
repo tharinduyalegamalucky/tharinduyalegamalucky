@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tharindu Yalegama
-- 👀 I’m interested in React
+- 👀 I’m interested in JavaScript
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Tharindu Yalegama</h1>
 <h3 align="center">Undergraduate in BSc. Computing</h3>
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharinudyalegamalucky" alt="tharinduyalegamalucky" /></a> </p>
+
 </div>
  
  
