@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Tharindu Yalegama</h1>
 <h3 align="center">Undergraduate in BSc. Computing</h3>
 <div align="center">
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=tharinduyalegamalucky&theme=onedark)](https://github.com/tharinduyalegamalucky/github-profile-trophy)
 </div>
  
  
