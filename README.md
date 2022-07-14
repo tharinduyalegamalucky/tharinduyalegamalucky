@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tharindu Yalegama
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in ASP.net
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
