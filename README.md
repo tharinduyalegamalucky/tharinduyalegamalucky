@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tharindu Yalegama
-- 👀 I’m interested in ASP.net
+- 👀 I’m interested in Web Development & UI/UX Design
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
