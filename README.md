@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tharindu Yalegama
-- 👀 I’m interested in Web Development & UI/UX Design
+- 👀 I’m interested in Android Mobile Developer
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
