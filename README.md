@@ -1,20 +1,6 @@
 - 👋 Hi, I’m @Tharindu Yalegama
 - 👀 I’m interested in Android Mobile Developer
 - 🌱 Undergraduate in BSc. Computing
- <a href="https://www.testdome.com/certificates/0fe9803a9733487ea2ff86933f1453b5" class="testdome-certificate-stamp gold">
-            <span class="testdome-certificate-name">Tharindu Yalegama</span>
-            <span class="testdome-certificate-test-name">SQL</span>
-            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
-        </a>
-        <script>
-            var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-            link = document.createElement("link");
-            link.href = stylesheet,
-            link.type = "text/css",
-            link.rel = "stylesheet",
-            link.media = "screen,print",
-            document.getElementsByTagName("head")[0].appendChild(link);
-        </script>
 
 <!---
 tharinduyalegamalucky/tharinduyalegamalucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
