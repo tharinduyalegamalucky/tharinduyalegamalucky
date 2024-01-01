@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tharindu Yalegama
-- 👀 I’m interested in Android Mobile Developer
+- 👀 I’m interested in Java Language
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
