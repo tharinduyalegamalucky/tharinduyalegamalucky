@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tharindu Yalegama
-- 👀 I’m interested in Java Language
+- 👀 I’m interested in .Net Core Language
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
